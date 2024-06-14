@@ -1,0 +1,9 @@
+[project]
+name = "TelegramPieAnimeApp"
+version = "0.1.0"
+license = "MIT"
+dependencies = ["flet", "flet-easy"]
+
+[[project.authors]]
+name = "Library_Keeper"
+email = ""
