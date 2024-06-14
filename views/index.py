@@ -13,7 +13,7 @@ def index_page(data: fs.Datasy):
     return ft.View(
         controls=[
             ft.Text("Home page", size=30),
-            SwoDrawer("Show_drawer", view.drawer),
+            SwoDrawer("PieAnime", view.drawer),
         ],
         vertical_alignment=ft.MainAxisAlignment.CENTER,
         horizontal_alignment=ft.CrossAxisAlignment.CENTER,
@@ -27,7 +27,7 @@ def index_page(data: fs.Datasy):
     return ft.View(
         controls=[
             ft.Text("Home page", size=30),
-            SwoDrawer("Show_drawer", view.drawer),
+            SwoDrawer("PieAnime", view.drawer),
         ],
         vertical_alignment=ft.MainAxisAlignment.CENTER,
         horizontal_alignment=ft.CrossAxisAlignment.CENTER,
