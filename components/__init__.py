@@ -1,1 +1,1 @@
-from components.swoDrawer import SwoDrawer
+from .swoDrawer import SwoDrawer
